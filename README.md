@@ -1,7 +1,7 @@
 ## Hi I'm Jhun Michael 👋
 
-I'm a learning backend developer from the Philippines 🇵🇭  
- I enjoy learning new technologies and building projects.
+Hi! I'm a first-year backend developer student from the Philippines 🇵🇭.
+I'm just starting out, but I love learning new tech and building my first projects.
 
 ---
 
