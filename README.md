@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Jhun Micahe 👋
 
 I'm a learning backend developer from the Philippines 🇵🇭  
  I enjoy learning new technologies and building projects.
