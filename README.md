@@ -1,8 +1,6 @@
 ## Hi I'm Jhun Michael 👋
 
-Hi! I'm a first‑year backend developer student from the Philippines 🇵🇭, currently focused on Java.
-I enjoy learning new tech and building my first projects.
-
+<span style="color:black;">Hi! I'm a first-year IT student from the Philippines, currently learning Java. I'm also exploring HTML and CSS while improving my skills, and I enjoy learning new technologies and building my first projects.</span>
 ---
 
 ## 🚀 Skills
