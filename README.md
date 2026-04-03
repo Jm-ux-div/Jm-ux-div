@@ -1,7 +1,5 @@
 ## Hi I'm Jhun Michael 👋
 
-## 🚀 About Me
-
 > **Hi! I'm a first-year IT student from the Philippines 🇵🇭, currently learning Java. I'm also exploring HTML and CSS while improving my skills, and I enjoy learning new technologies and building my first projects.**
 
 
