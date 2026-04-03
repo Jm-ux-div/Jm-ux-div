@@ -1,7 +1,9 @@
 ## Hi I'm Jhun Michael 👋
 
-Hi! I'm a first-year IT student from the Philippines 🇵🇭, currently learning Java. I'm also exploring HTML and CSS while improving my skills, and I enjoy learning new technologies and building my first projects.
----
+## 🚀 About Me
+
+> **Hi! I'm a first-year IT student from the Philippines 🇵🇭, currently learning Java. I'm also exploring HTML and CSS while improving my skills, and I enjoy learning new technologies and building my first projects.**
+
 
 ## 🚀 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
