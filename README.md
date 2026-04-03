@@ -1,12 +1,12 @@
 ## Hi I'm Jhun Michael 👋
 
-<span style="color:black;">Hi! I'm a first-year IT student from the Philippines, currently learning Java. I'm also exploring HTML and CSS while improving my skills, and I enjoy learning new technologies and building my first projects.</span>
+Hi! I'm a first-year IT student from the Philippines 🇵🇭, currently learning Java. I'm also exploring HTML and CSS while improving my skills, and I enjoy learning new technologies and building my first projects.
 ---
 
 ## 🚀 Skills
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
